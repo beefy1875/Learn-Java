@@ -1,6 +1,3 @@
-# hello-world
-First repository on gitgub
+# Learning Java
 
-New to this github business.  People seem to be into it though.
-
-Commit message - updated readme file
+A practice in learning Java and using Github
